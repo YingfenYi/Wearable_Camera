@@ -10,3 +10,5 @@ Brooch:
 ![Brooch](https://github.com/YingfenYi/Wearable_Camera/blob/master/Brooch.jpg)
 
 Read more about it [here](https://yingfenyi.github.io/Camera.html)
+
+Photo credit to HABits Lab and Ka Moamoa lab.
